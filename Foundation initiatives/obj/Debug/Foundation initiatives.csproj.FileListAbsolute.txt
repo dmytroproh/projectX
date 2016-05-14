@@ -1,0 +1,86 @@
+C:\Users\kolya\OneDrive\Документы\Visual Studio 2015\Projects\ADO Learning\Foundation initiatives\Foundation initiatives\bin\ApplicationInsights.config
+C:\Users\kolya\OneDrive\Документы\Visual Studio 2015\Projects\ADO Learning\Foundation initiatives\Foundation initiatives\bin\roslyn\csc.exe
+C:\Users\kolya\OneDrive\Документы\Visual Studio 2015\Projects\ADO Learning\Foundation initiatives\Foundation initiatives\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\kolya\OneDrive\Документы\Visual Studio 2015\Projects\ADO Learning\Foundation initiatives\Foundation initiatives\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\kolya\OneDrive\Документы\Visual Studio 2015\Projects\ADO Learning\Foundation initiatives\Foundation initiatives\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\kolya\OneDrive\Документы\Visual Studio 2015\Projects\ADO Learning\Foundation initiatives\Foundation initiatives\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\kolya\OneDrive\Документы\Visual Studio 2015\Projects\ADO Learning\Foundation initiatives\Foundation initiatives\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\kolya\OneDrive\Документы\Visual Studio 2015\Projects\ADO Learning\Foundation initiatives\Foundation initiatives\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\kolya\OneDrive\Документы\Visual Studio 2015\Projects\ADO Learning\Foundation initiatives\Foundation initiatives\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\kolya\OneDrive\Документы\Visual Studio 2015\Projects\ADO Learning\Foundation initiatives\Foundation initiatives\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\kolya\OneDrive\Документы\Visual Studio 2015\Projects\ADO Learning\Foundation initiatives\Foundation initiatives\bin\roslyn\vbc.exe
+C:\Users\kolya\OneDrive\Документы\Visual Studio 2015\Projects\ADO Learning\Foundation initiatives\Foundation initiatives\bin\roslyn\VBCSCompiler.exe
+C:\Users\kolya\OneDrive\Документы\Visual Studio 2015\Projects\ADO Learning\Foundation initiatives\Foundation initiatives\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\kolya\OneDrive\Документы\Visual Studio 2015\Projects\ADO Learning\Foundation initiatives\Foundation initiatives\bin\Foundation initiatives.dll.config
+C:\Users\kolya\OneDrive\Документы\Visual Studio 2015\Projects\ADO Learning\Foundation initiatives\Foundation initiatives\bin\Foundation initiatives.dll
+C:\Users\kolya\OneDrive\Документы\Visual Studio 2015\Projects\ADO Learning\Foundation initiatives\Foundation initiatives\bin\Foundation initiatives.pdb
+C:\Users\kolya\OneDrive\Документы\Visual Studio 2015\Projects\ADO Learning\Foundation initiatives\Foundation initiatives\bin\Antlr3.Runtime.dll
+C:\Users\kolya\OneDrive\Документы\Visual Studio 2015\Projects\ADO Learning\Foundation initiatives\Foundation initiatives\bin\EntityFramework.dll
+C:\Users\kolya\OneDrive\Документы\Visual Studio 2015\Projects\ADO Learning\Foundation initiatives\Foundation initiatives\bin\EntityFramework.SqlServer.dll
+C:\Users\kolya\OneDrive\Документы\Visual Studio 2015\Projects\ADO Learning\Foundation initiatives\Foundation initiatives\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\kolya\OneDrive\Документы\Visual Studio 2015\Projects\ADO Learning\Foundation initiatives\Foundation initiatives\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\kolya\OneDrive\Документы\Visual Studio 2015\Projects\ADO Learning\Foundation initiatives\Foundation initiatives\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\kolya\OneDrive\Документы\Visual Studio 2015\Projects\ADO Learning\Foundation initiatives\Foundation initiatives\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\kolya\OneDrive\Документы\Visual Studio 2015\Projects\ADO Learning\Foundation initiatives\Foundation initiatives\bin\Microsoft.AI.Web.dll
+C:\Users\kolya\OneDrive\Документы\Visual Studio 2015\Projects\ADO Learning\Foundation initiatives\Foundation initiatives\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\kolya\OneDrive\Документы\Visual Studio 2015\Projects\ADO Learning\Foundation initiatives\Foundation initiatives\bin\Microsoft.ApplicationInsights.dll
+C:\Users\kolya\OneDrive\Документы\Visual Studio 2015\Projects\ADO Learning\Foundation initiatives\Foundation initiatives\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\kolya\OneDrive\Документы\Visual Studio 2015\Projects\ADO Learning\Foundation initiatives\Foundation initiatives\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\kolya\OneDrive\Документы\Visual Studio 2015\Projects\ADO Learning\Foundation initiatives\Foundation initiatives\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\kolya\OneDrive\Документы\Visual Studio 2015\Projects\ADO Learning\Foundation initiatives\Foundation initiatives\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\kolya\OneDrive\Документы\Visual Studio 2015\Projects\ADO Learning\Foundation initiatives\Foundation initiatives\bin\Microsoft.Owin.dll
+C:\Users\kolya\OneDrive\Документы\Visual Studio 2015\Projects\ADO Learning\Foundation initiatives\Foundation initiatives\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\kolya\OneDrive\Документы\Visual Studio 2015\Projects\ADO Learning\Foundation initiatives\Foundation initiatives\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\kolya\OneDrive\Документы\Visual Studio 2015\Projects\ADO Learning\Foundation initiatives\Foundation initiatives\bin\Microsoft.Owin.Security.dll
+C:\Users\kolya\OneDrive\Документы\Visual Studio 2015\Projects\ADO Learning\Foundation initiatives\Foundation initiatives\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\kolya\OneDrive\Документы\Visual Studio 2015\Projects\ADO Learning\Foundation initiatives\Foundation initiatives\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\kolya\OneDrive\Документы\Visual Studio 2015\Projects\ADO Learning\Foundation initiatives\Foundation initiatives\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\kolya\OneDrive\Документы\Visual Studio 2015\Projects\ADO Learning\Foundation initiatives\Foundation initiatives\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\kolya\OneDrive\Документы\Visual Studio 2015\Projects\ADO Learning\Foundation initiatives\Foundation initiatives\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\kolya\OneDrive\Документы\Visual Studio 2015\Projects\ADO Learning\Foundation initiatives\Foundation initiatives\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\kolya\OneDrive\Документы\Visual Studio 2015\Projects\ADO Learning\Foundation initiatives\Foundation initiatives\bin\Newtonsoft.Json.dll
+C:\Users\kolya\OneDrive\Документы\Visual Studio 2015\Projects\ADO Learning\Foundation initiatives\Foundation initiatives\bin\Owin.dll
+C:\Users\kolya\OneDrive\Документы\Visual Studio 2015\Projects\ADO Learning\Foundation initiatives\Foundation initiatives\bin\System.Web.Helpers.dll
+C:\Users\kolya\OneDrive\Документы\Visual Studio 2015\Projects\ADO Learning\Foundation initiatives\Foundation initiatives\bin\System.Web.Mvc.dll
+C:\Users\kolya\OneDrive\Документы\Visual Studio 2015\Projects\ADO Learning\Foundation initiatives\Foundation initiatives\bin\System.Web.Optimization.dll
+C:\Users\kolya\OneDrive\Документы\Visual Studio 2015\Projects\ADO Learning\Foundation initiatives\Foundation initiatives\bin\System.Web.Razor.dll
+C:\Users\kolya\OneDrive\Документы\Visual Studio 2015\Projects\ADO Learning\Foundation initiatives\Foundation initiatives\bin\System.Web.WebPages.Deployment.dll
+C:\Users\kolya\OneDrive\Документы\Visual Studio 2015\Projects\ADO Learning\Foundation initiatives\Foundation initiatives\bin\System.Web.WebPages.dll
+C:\Users\kolya\OneDrive\Документы\Visual Studio 2015\Projects\ADO Learning\Foundation initiatives\Foundation initiatives\bin\System.Web.WebPages.Razor.dll
+C:\Users\kolya\OneDrive\Документы\Visual Studio 2015\Projects\ADO Learning\Foundation initiatives\Foundation initiatives\bin\WebGrease.dll
+C:\Users\kolya\OneDrive\Документы\Visual Studio 2015\Projects\ADO Learning\Foundation initiatives\Foundation initiatives\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\kolya\OneDrive\Документы\Visual Studio 2015\Projects\ADO Learning\Foundation initiatives\Foundation initiatives\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\kolya\OneDrive\Документы\Visual Studio 2015\Projects\ADO Learning\Foundation initiatives\Foundation initiatives\bin\Microsoft.AI.Web.xml
+C:\Users\kolya\OneDrive\Документы\Visual Studio 2015\Projects\ADO Learning\Foundation initiatives\Foundation initiatives\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\kolya\OneDrive\Документы\Visual Studio 2015\Projects\ADO Learning\Foundation initiatives\Foundation initiatives\bin\Microsoft.ApplicationInsights.xml
+C:\Users\kolya\OneDrive\Документы\Visual Studio 2015\Projects\ADO Learning\Foundation initiatives\Foundation initiatives\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\kolya\OneDrive\Документы\Visual Studio 2015\Projects\ADO Learning\Foundation initiatives\Foundation initiatives\bin\System.Web.Helpers.xml
+C:\Users\kolya\OneDrive\Документы\Visual Studio 2015\Projects\ADO Learning\Foundation initiatives\Foundation initiatives\bin\System.Web.Mvc.xml
+C:\Users\kolya\OneDrive\Документы\Visual Studio 2015\Projects\ADO Learning\Foundation initiatives\Foundation initiatives\bin\System.Web.Optimization.xml
+C:\Users\kolya\OneDrive\Документы\Visual Studio 2015\Projects\ADO Learning\Foundation initiatives\Foundation initiatives\bin\System.Web.Razor.xml
+C:\Users\kolya\OneDrive\Документы\Visual Studio 2015\Projects\ADO Learning\Foundation initiatives\Foundation initiatives\bin\System.Web.WebPages.xml
+C:\Users\kolya\OneDrive\Документы\Visual Studio 2015\Projects\ADO Learning\Foundation initiatives\Foundation initiatives\bin\System.Web.WebPages.Deployment.xml
+C:\Users\kolya\OneDrive\Документы\Visual Studio 2015\Projects\ADO Learning\Foundation initiatives\Foundation initiatives\bin\System.Web.WebPages.Razor.xml
+C:\Users\kolya\OneDrive\Документы\Visual Studio 2015\Projects\ADO Learning\Foundation initiatives\Foundation initiatives\bin\Antlr3.Runtime.pdb
+C:\Users\kolya\OneDrive\Документы\Visual Studio 2015\Projects\ADO Learning\Foundation initiatives\Foundation initiatives\bin\Newtonsoft.Json.xml
+C:\Users\kolya\OneDrive\Документы\Visual Studio 2015\Projects\ADO Learning\Foundation initiatives\Foundation initiatives\bin\EntityFramework.xml
+C:\Users\kolya\OneDrive\Документы\Visual Studio 2015\Projects\ADO Learning\Foundation initiatives\Foundation initiatives\bin\EntityFramework.SqlServer.xml
+C:\Users\kolya\OneDrive\Документы\Visual Studio 2015\Projects\ADO Learning\Foundation initiatives\Foundation initiatives\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\kolya\OneDrive\Документы\Visual Studio 2015\Projects\ADO Learning\Foundation initiatives\Foundation initiatives\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\kolya\OneDrive\Документы\Visual Studio 2015\Projects\ADO Learning\Foundation initiatives\Foundation initiatives\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\kolya\OneDrive\Документы\Visual Studio 2015\Projects\ADO Learning\Foundation initiatives\Foundation initiatives\bin\Microsoft.Owin.xml
+C:\Users\kolya\OneDrive\Документы\Visual Studio 2015\Projects\ADO Learning\Foundation initiatives\Foundation initiatives\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\kolya\OneDrive\Документы\Visual Studio 2015\Projects\ADO Learning\Foundation initiatives\Foundation initiatives\bin\Microsoft.Owin.Security.xml
+C:\Users\kolya\OneDrive\Документы\Visual Studio 2015\Projects\ADO Learning\Foundation initiatives\Foundation initiatives\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\kolya\OneDrive\Документы\Visual Studio 2015\Projects\ADO Learning\Foundation initiatives\Foundation initiatives\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\kolya\OneDrive\Документы\Visual Studio 2015\Projects\ADO Learning\Foundation initiatives\Foundation initiatives\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\kolya\OneDrive\Документы\Visual Studio 2015\Projects\ADO Learning\Foundation initiatives\Foundation initiatives\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\kolya\OneDrive\Документы\Visual Studio 2015\Projects\ADO Learning\Foundation initiatives\Foundation initiatives\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\kolya\OneDrive\Документы\Visual Studio 2015\Projects\ADO Learning\Foundation initiatives\Foundation initiatives\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\kolya\OneDrive\Документы\Visual Studio 2015\Projects\ADO Learning\Foundation initiatives\Foundation initiatives\obj\Debug\Foundation initiatives.csprojResolveAssemblyReference.cache
+C:\Users\kolya\OneDrive\Документы\Visual Studio 2015\Projects\ADO Learning\Foundation initiatives\Foundation initiatives\obj\Debug\Foundation initiatives.dll
+C:\Users\kolya\OneDrive\Документы\Visual Studio 2015\Projects\ADO Learning\Foundation initiatives\Foundation initiatives\obj\Debug\Foundation initiatives.pdb
+C:\Users\kolya\OneDrive\Документы\Visual Studio 2015\Projects\ADO Learning\Foundation initiatives\Foundation initiatives\obj\Debug\Foundation_initiatives.Migrations.InitialCreate.resources
+C:\Users\kolya\OneDrive\Документы\Visual Studio 2015\Projects\ADO Learning\Foundation initiatives\Foundation initiatives\obj\Debug\Foundation initiatives.csproj.GenerateResource.Cache
+C:\Users\kolya\OneDrive\Документы\Visual Studio 2015\Projects\ADO Learning\Foundation initiatives\Foundation initiatives\obj\Debug\Foundation_initiatives.Migrations.FirstMigration.resources
+C:\Users\kolya\OneDrive\Документы\Visual Studio 2015\Projects\ADO Learning\Foundation initiatives\Foundation initiatives\obj\Debug\Foundation_initiatives.Migrations.RewriteTrueCollections.resources
